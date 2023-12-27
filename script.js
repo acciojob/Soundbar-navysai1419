@@ -1,4 +1,3 @@
-//your JS code here. If required.
 let audioElements = [];
 
 function playSound(soundFile) {
